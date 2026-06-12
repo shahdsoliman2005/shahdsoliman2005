@@ -1,6 +1,6 @@
 # Hi there, I'm Shahd Soliman 👋
 
-🎓 CS & AI Student | 🐍 Python & Data Science Enthusiast | 🧠 ML Explorer
+🎓AI Student | 🐍 Python & Data Science Enthusiast | 🧠 ML Explorer
 
 ---
 
