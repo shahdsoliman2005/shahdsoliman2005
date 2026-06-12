@@ -69,12 +69,4 @@
 🇪🇬 Arabic – Native &nbsp;|&nbsp; 🇬🇧 English – IELTS B2 &nbsp;|&nbsp; 🇯🇵 Japanese – Beginner &nbsp;|&nbsp; 🇨🇳 Chinese – Beginner
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default)
-
----
-
 ✨ Always learning, building, and growing — one model at a time 🚀
